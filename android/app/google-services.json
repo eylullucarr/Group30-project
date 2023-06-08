@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396391104873",
+    "project_id": "suggary-8dc43",
+    "storage_bucket": "suggary-8dc43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396391104873:android:40454829a11dfc55d1bdf8",
+        "android_client_info": {
+          "package_name": "com.example.insulin_calculate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396391104873-2nqq3d9m55vqapvlj7eb71nasu28d8ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOw2cokKRAJN7j2tgtVZq5-SqgpmQwqvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396391104873-2nqq3d9m55vqapvlj7eb71nasu28d8ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
