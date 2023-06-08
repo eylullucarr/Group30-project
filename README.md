@@ -1,6 +1,6 @@
-# insulin_calculate
+# Sugary Mobile Application Project
 
-A new Flutter project.
+This project promises to make life easier for people with Type-1 diabetes by doing carbohydrate counting and calculating the amount of insulin that should be shot if the user's blood sugar rises. 
 
 ## Getting Started
 
